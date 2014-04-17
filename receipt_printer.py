@@ -41,7 +41,7 @@ def print_receipt(menu):
   
   # Print Wifi information
   string_to_print+=str("Wifi: SSS Air Lounge\n")
-  string_to_print+=str("Password: tudainhatcuatiengviet\n")
+  string_to_print+=str("Password: ***\n")
   string_to_print+=str("\n")  
   string_to_print+=str("Check-in and play our game\n")
 
